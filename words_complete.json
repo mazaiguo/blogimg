@@ -1,0 +1,114 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "english": "toilet",
+      "chinese": "厕所",
+      "pronunciation": "['tɔɪlət]",
+      "audioFile": "toilet.mp3",
+      "imageFile": "toilet.png",
+      "level": 1,
+      "category": "furniture",
+      "lesson": 1
+    },
+    {
+      "id": 2,
+      "english": "sink",
+      "chinese": "水槽",
+      "pronunciation": "[sɪŋk]",
+      "audioFile": "sink.mp3",
+      "imageFile": "sink.png",
+      "level": 1,
+      "category": "furniture",
+      "lesson": 1
+    },
+    {
+      "id": 3,
+      "english": "shower",
+      "chinese": "淋浴",
+      "pronunciation": "['ʃaʊə(r)]",
+      "audioFile": "shower.mp3",
+      "imageFile": "shower.png",
+      "level": 1,
+      "category": "furniture",
+      "lesson": 1
+    },
+    {
+      "id": 4,
+      "english": "wardrobe",
+      "chinese": "衣柜",
+      "pronunciation": "['wɔːdrəʊb]",
+      "audioFile": "wardrobe.mp3",
+      "imageFile": "wardrobe.png",
+      "level": 1,
+      "category": "furniture",
+      "lesson": 1
+    },
+    {
+      "id": 5,
+      "english": "bed",
+      "chinese": "床",
+      "pronunciation": "[bed]",
+      "audioFile": "bed.mp3",
+      "imageFile": "bed.png",
+      "level": 1,
+      "category": "furniture",
+      "lesson": 1
+    },
+    {
+      "id": 6,
+      "english": "basement",
+      "chinese": "地下室",
+      "pronunciation": "['beɪsmənt]",
+      "audioFile": "basement.mp3",
+      "imageFile": "basement.png",
+      "level": 1,
+      "category": "house",
+      "lesson": 2
+    },
+    {
+      "id": 7,
+      "english": "loft",
+      "chinese": "阁楼",
+      "pronunciation": "[lɒft]",
+      "audioFile": "loft.mp3",
+      "imageFile": "loft.png",
+      "level": 1,
+      "category": "house",
+      "lesson": 2
+    },
+    {
+      "id": 8,
+      "english": "shed",
+      "chinese": "棚屋",
+      "pronunciation": "[ʃed]",
+      "audioFile": "shed.mp3",
+      "imageFile": "shed.png",
+      "level": 1,
+      "category": "house",
+      "lesson": 2
+    },
+    {
+      "id": 9,
+      "english": "garage",
+      "chinese": "车库",
+      "pronunciation": "['gærɑːʒ]",
+      "audioFile": "garage.mp3",
+      "imageFile": "garage.png",
+      "level": 1,
+      "category": "house",
+      "lesson": 2
+    },
+    {
+      "id": 10,
+      "english": "box",
+      "chinese": "盒子",
+      "pronunciation": "[bɒks]",
+      "audioFile": "box.mp3",
+      "imageFile": "box.png",
+      "level": 1,
+      "category": "object",
+      "lesson": 2
+    }
+  ]
+}
