@@ -109,6 +109,105 @@
       "level": 1,
       "category": "object",
       "lesson": 2
+    },
+    {
+      "id": 11,
+      "english": "glass",
+      "chinese": "玻璃杯",
+      "pronunciation": "[glɑːs]",
+      "audioFile": "glass.mp3",
+      "imageFile": "glass.png",
+      "level": 1,
+      "category": "tableware",
+      "lesson": 3
+    },
+    {
+      "id": 12,
+      "english": "plate",
+      "chinese": "盘子",
+      "pronunciation": "[pleɪt]",
+      "audioFile": "plate.mp3",
+      "imageFile": "plate.png",
+      "level": 1,
+      "category": "tableware",
+      "lesson": 3
+    },
+    {
+      "id": 13,
+      "english": "knife",
+      "chinese": "刀",
+      "pronunciation": "[naɪf]",
+      "audioFile": "knife.mp3",
+      "imageFile": "knife.png",
+      "level": 1,
+      "category": "tableware",
+      "lesson": 3
+    },
+    {
+      "id": 14,
+      "english": "fork",
+      "chinese": "叉子",
+      "pronunciation": "[fɔːk]",
+      "audioFile": "fork.mp3",
+      "imageFile": "fork.png",
+      "level": 1,
+      "category": "tableware",
+      "lesson": 3
+    },
+    {
+      "id": 15,
+      "english": "spoon",
+      "chinese": "勺子",
+      "pronunciation": "[spuːn]",
+      "audioFile": "spoon.mp3",
+      "imageFile": "spoon.png",
+      "level": 1,
+      "category": "tableware",
+      "lesson": 3
+    },
+    {
+      "id": 16,
+      "english": "towel",
+      "chinese": "毛巾",
+      "pronunciation": "[ˈtaʊəl]",
+      "audioFile": "towel.mp3",
+      "imageFile": "towel.png",
+      "level": 1,
+      "category": "daily_items",
+      "lesson": 4
+    },
+    {
+      "id": 17,
+      "english": "pajamas",
+      "chinese": "睡衣",
+      "pronunciation": "[pəˈdʒɑːməz]",
+      "audioFile": "pajamas.mp3",
+      "imageFile": "pajamas.png",
+      "level": 1,
+      "category": "clothing",
+      "lesson": 4
+    },
+    {
+      "id": 18,
+      "english": "toothbrush",
+      "chinese": "牙刷",
+      "pronunciation": "[ˈtuːθbrʌʃ]",
+      "audioFile": "toothbrush.mp3",
+      "imageFile": "toothbrush.png",
+      "level": 1,
+      "category": "daily_items",
+      "lesson": 4
+    },
+    {
+      "id": 19,
+      "english": "television",
+      "chinese": "电视",
+      "pronunciation": "[ˈtelɪvɪʒn]",
+      "audioFile": "television.mp3",
+      "imageFile": "television.png",
+      "level": 1,
+      "category": "appliance",
+      "lesson": 4
     }
   ]
 }
